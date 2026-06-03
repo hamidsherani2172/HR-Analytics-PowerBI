@@ -12,15 +12,15 @@ The project combines employee records, HR information, and engagement survey dat
 
 ### HR Workforce Overview
 
-![HR Workforce Dashboard](images/hr_overview.png)
+![HR Workforce Dashboard](DB.png)
 
 ### Employee Attrition Analysis
 
-![Employee Attrition Dashboard](images/attrition_analysis.png)
+![Employee Attrition Dashboard](HR2.png)
 
 ### Workforce Summary Dashboard
 
-![HR Summary Dashboard](images/hr_summary.png)
+![HR Summary Dashboard](HR2DB.png)
 
 ---
 
