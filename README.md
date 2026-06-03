@@ -217,6 +217,10 @@ This dashboard enables HR teams and management to:
 * Make informed workforce management decisions.
 
 ---
+Connect With Me
+LinkedIn: www.linkedin.com/in/
+Fiverr: https://www.fiverr.com/your-username
+Email: hamidsherani2172@gmail.com
 
 ## Author
 
