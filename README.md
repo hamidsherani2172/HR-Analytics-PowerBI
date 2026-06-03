@@ -217,13 +217,15 @@ This dashboard enables HR teams and management to:
 * Make informed workforce management decisions.
 
 ---
-Connect With Me
-LinkedIn: www.linkedin.com/in/
-Fiverr: https://www.fiverr.com/your-username
-Email: hamidsherani2172@gmail.com
 
 ## Author
 
 **Hamid Nawaz**
 
 Computer Science Student | Data Analytics Enthusiast | Power BI Developer
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/
+- Fiverr: [https://www.fiverr.com/your-username](https://www.fiverr.com/s/e6D4d4E)
+- Email: hamidsherani2172@gmail.com
